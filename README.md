@@ -6,7 +6,7 @@ Also download the utils.py file and have it in the same folder as model's code
 I used the utils.py and gloVe embeddings files from the coursera course - Sequence Models (by DeepLearning.ai - by andrew Ng)
 utils.py has a lot of code, but I am using only 1 function read_glove_vecs() to read the gloVe vector.
 
-Data set contains 16 lac tweets - download from the link (), which were orignally labelled 4 for positive and 0 for negative.
+Data set contains 16 lac tweets - download from the link: https://drive.google.com/file/d/1L9EvOp9fdHsiOvYvyfvg0X3NgeRJL-hF/view?usp=sharing , which were orignally labelled 4 for positive and 0 for negative.
 I changed 4 to 1, so that my labels are 0 and 1 sigmoid activtion function can be applied.
 Store this data set is folder named "data", or store according to your need and change the path in the code.
 
