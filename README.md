@@ -1,4 +1,5 @@
 # SentiSid
+This is Sentiment Classification task using LSTM architecture of RNN
 
 This model uses pre-trained gloVe embeddings of 4,00,000 words. Embeddings can be downloaded from my google drive link: https://drive.google.com/open?id=1SBeozSxq8WqzSL5hOxEkc-qPOoDE0ziR . Save embeddings in the same folder as the model code.
 Also download the utils.py file and have it in the same folder as model's code 
