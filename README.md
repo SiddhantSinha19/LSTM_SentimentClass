@@ -8,7 +8,7 @@ utils.py has a lot of code, but I am using only 1 function read_glove_vecs() to 
 
 Data set contains 16 lac tweets - download from the link: https://drive.google.com/file/d/1L9EvOp9fdHsiOvYvyfvg0X3NgeRJL-hF/view?usp=sharing , which were orignally labelled 4 for positive and 0 for negative.
 I changed 4 to 1, so that my labels are 0 and 1 sigmoid activtion function can be applied.
-Store this data set is folder named "data", or store according to your need and change the path in the code.
+Store this data set in folder named "data" (to match the path in the code), or store according to your need and change the path in the code.
 
 function sentence_to_indices() converts sentence to indices. Each word of the sentence is coonvert to a positive integer index and an array stores all the indices for 1 sentence. An array of array containing indices of various sentences is returned
 input - ['sentence1 ...',sentence2 ...', ...]
