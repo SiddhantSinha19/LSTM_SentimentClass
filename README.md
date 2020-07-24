@@ -26,4 +26,6 @@ As of now, I haven't done hyperparameter tuning, which remains as future work.
 
 Please, cite my work, if you're using it.
 
+For any query - write to me at sid.ronaldo1904@gmail.com
+
 Siddhant Sinha
